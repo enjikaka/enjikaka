@@ -70,7 +70,7 @@ We refactored our Backbone.js app at TIDAL to React with Redux
 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-I single handedly refactorer the TIDAL web application from [redux-little-router](https://github.com/FormidableLabs/redux-little-router) to react-router in 2024. Had many "fun" merge conflicts on that one!
+I single handedly refactored the TIDAL web application from [redux-little-router](https://github.com/FormidableLabs/redux-little-router) to react-router in 2024. Had many "fun" merge conflicts on that one!
 
 ![RollupJS](https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white)
 
